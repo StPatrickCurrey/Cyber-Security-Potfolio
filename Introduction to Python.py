@@ -1,0 +1,5 @@
+print ("I will own my dream home.")
+print ("I will own my dream car.")
+print ("I will travel to Shibuya and explore the shopping districts.")
+print ("I will get a litter of golden retrievers.")
+print ("I will improve my lifestyle and fitness.")
